@@ -6,11 +6,11 @@
 # Step 1:
 # Update the MAIL_FROM, MAIL_TO and SENDGRID_API_KEY
 #
-# Step 1: 
+# Step 2: 
 # echo "export SENDGRID_API_KEY='SG.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'" > sendgrid.env
 # source ./sendgrid.env
 #
-# Step 2: 
+# Step 3: 
 # python sendSendgridEmail_API.py
 
 
